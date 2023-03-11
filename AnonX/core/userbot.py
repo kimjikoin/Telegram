@@ -79,8 +79,8 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("DevilsHeavenMF")
-                await self.two.join_chat("FallenAssociation")
+                await self.two.join_chat("airy_Support")
+                await self.two.join_chat("theupdatechannel_143")
             except:
                 pass
             assistants.append(2)
@@ -141,8 +141,8 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("DevilsHeavenMF")
-                await self.four.join_chat("FallenAssociation")
+                await self.four.join_chat("Fairy_Support")
+                await self.four.join_chat("theupdatechannel_143")
             except:
                 pass
             assistants.append(4)
@@ -172,8 +172,8 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("DevilsHeavenMF")
-                await self.five.join_chat("FallenAssociation")
+                await self.five.join_chat("Fairy_Support")
+                await self.five.join_chat("theupdatechannel_143")
             except:
                 pass
             assistants.append(5)
