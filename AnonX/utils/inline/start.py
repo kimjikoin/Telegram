@@ -56,6 +56,6 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
     return buttons
 InlineKeyboardButton(
 
-                text="🥂 sᴜᴩᴩᴏʀᴛ 🥂", url=config.SUPPORT_GROUP
+                text="🥂 ꜰᴀʜᴀᴅ 🥂", url=f"https://te.legra.ph/file/b073b5c337e7b260d49a5.mp4",
 
             ),
