@@ -41,15 +41,15 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [
             InlineKeyboardButton(
-                text="🥂 sᴜᴩᴩᴏʀᴛ 🥂", url=config.SUPPORT_GROUP
+                text="💫 sᴜᴩᴩᴏʀᴛ 💫", url=config.SUPPORT_GROUP
             ),
             InlineKeyboardButton(
-                text="🥂 ᴍᴀɪɴᴛᴀɪɴᴇʀ 🥂", user_id=OWNER
+                text="🥀 ᴍᴀɪɴᴛᴀɪɴᴇʀ 🥀", user_id=OWNER
             )
         ],
         [
             InlineKeyboardButton(
-                text="🥂 sᴏᴜʀᴄᴇ 🥂", url=f"https://te.legra.ph/file/b073b5c337e7b260d49a5.mp4",
+                text="✨ᴜᴘᴅᴀᴛᴇ ✨", url=f"https://t.me/theupdatechannel_143",
             )
         ],
      ]
