@@ -9,7 +9,7 @@ def start_pannel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
     buttons = [
         [
             InlineKeyboardButton(
-                text="ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ",
+                text="sᴜɴᴏ sᴇᴇᴅᴀ sᴀ sɪᴍᴘʟᴇ sᴀ ᴇᴋ ʙᴀᴀᴛ ʙᴏʟᴜ . ᴛʜᴏ sᴜɴᴏ",
                 url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
             )
         ],
@@ -30,7 +30,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
     buttons = [
         [
             InlineKeyboardButton(
-                text="🥂ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ🥂",
+                text="🥂sᴜɴᴏ sᴇᴇᴅᴀ sᴀ sɪᴍᴘʟᴇ sᴀ ᴇᴋ ʙᴀᴀᴛ ʙᴏʟᴜ . ᴛʜᴏ sᴜɴᴏ🥂",
                 url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
             )
         ],
@@ -49,7 +49,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [
             InlineKeyboardButton(
-                text="✨ᴜᴘᴅᴀᴛᴇ ✨", url=f"https://t.me/theupdatechannel_143",
+                text="✨ᴜᴘᴅᴀᴛᴇ ✨", url=f"https://t.me/KImjikoinsupport",
             )
         ],
      ]
